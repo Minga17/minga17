@@ -38,7 +38,7 @@ TO RE-ENABLE WITH YOUR OWN FREE DEPLOYMENT:
 3. Click "Add New Project" → import your forked repo → click "Deploy"
 4. Vercel gives you a URL like: your-project-name.vercel.app
 5. Replace YOUR_DEPLOYMENT_URL below with that domain, then delete the
-   comment markers <!-- and --> around this whole block to turn it back on.
+   comment markers  around this whole block to turn it back on.
  
 <p align="left">
   <img src="https://npx plugins add vercel/vercel-plugin?username=Minga17&theme=darkhub&no-frame=true&row=1&column=6" />
